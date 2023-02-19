@@ -1,0 +1,19 @@
+body{
+    height: 3000px;
+}
+.navbar{
+    background-color: rgba(175, 158, 158, 0.848);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: all .3s ease;
+}
+
+.navbar-brand {
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+.navbar-collapse{
+    margin-left: 50px;
+}
